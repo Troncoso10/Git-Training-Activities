@@ -1,0 +1,8 @@
+Favorite Quote:
+"He who has a why to live for can bear almost any how."
+
+Who said it:
+Friedrich Nietzsche
+
+Preferred Tech Stack:
+Java, PostgreSQL/SQL, React, HTML
