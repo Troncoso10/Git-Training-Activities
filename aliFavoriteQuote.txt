@@ -1,8 +1,8 @@
 Favorite Quote:
-"Success is the sum of small efforts, repeated day in and day out."
+"He who has a why to live for can bear almost any how."
 
 Who said it:
-Robert Collier
+Friedrich Nietzsche
 
 Preferred Tech Stack:
-Python, SQL/PostgreSQL, JavaScript, React, HTML/CSS
+Java, PostgreSQL/SQL, React, HTML
