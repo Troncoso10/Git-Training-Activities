@@ -1,0 +1,8 @@
+Favorite Quote:
+"Success is the sum of small efforts, repeated day in and day out."
+
+Who said it:
+Robert Collier
+
+Preferred Tech Stack:
+Python, SQL/PostgreSQL, JavaScript, React, HTML/CSS
